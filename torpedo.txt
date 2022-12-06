@@ -1,4 +1,4 @@
-crear el token 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
+crear el token ghp_y0WLgg......hLAMxHLRYkGfeJSQZHMUqj4E0wQguX
 2.- verificar "git config user.name" y "git config user.email"
 3.- agregar archivos con "git add ."
 4.- hacer el commit "git commit -m mensaje"
